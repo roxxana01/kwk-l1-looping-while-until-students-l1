@@ -9,5 +9,5 @@ end
 
 using_while
 
-#ruby lib/while.rb
-#use this to run the code in the black box
+
+#use this to run the code in the black box#ruby lib/while.rb
